@@ -26,6 +26,7 @@ from modules.kpi import render_analysis_page
 from modules.charts import render_dashboard_page
 from modules.forecast import render_forecast_page
 from modules.insights import render_insights_page
+from modules.reports import render_reports_page
 
 st.set_page_config(
     page_title="FinPilot AI",
@@ -75,6 +76,8 @@ elif selected_page == "Forecast":
     render_forecast_page()
 elif selected_page == "AI Insights":
     render_insights_page()
+elif selected_page == "Reports":
+    render_reports_page()
 else:
     st.subheader(selected_page)
     st.info(f"'{selected_page}' will be built in an upcoming module. Stay tuned!")

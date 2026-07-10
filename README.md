@@ -36,12 +36,12 @@ FinPilot_AI/
 ## Roadmap (build order)
 
 1. ✅ Upload CSV/Excel
-2. ✅ Dataset Validation (data quality report)
-3. ✅ Automatic Data Cleaning
-4. ✅ Financial Analysis (KPIs)
-5. ✅ Interactive Dashboard (Plotly)
-6. ✅ Forecasting (Prophet)
-7. ✅ AI Insights (Ollama + Qwen 3)
+2. ⬜ Dataset Validation (data quality report)
+3. ⬜ Automatic Data Cleaning
+4. ⬜ Financial Analysis (KPIs)
+5. ⬜ Interactive Dashboard (Plotly)
+6. ⬜ Forecasting (Prophet)
+7. ⬜ AI Insights (Ollama + Qwen 3)
 8. ⬜ PDF & Excel Report Export
 9. ⬜ History (SQLite)
 
