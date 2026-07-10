@@ -1,0 +1,16 @@
+Date,Category,Type,Description,Amount
+2026-01-05,Sales,Revenue,Product A Sale,12500
+2026-01-08,Salary,Expense,Staff Salary,45000
+2026-01-12,Marketing,Expense,Facebook Ads,6200
+2026-01-15,Sales,Revenue,Product B Sale,9800
+2026-01-18,Rent,Expense,Office Rent,15000
+2026-01-22,Sales,Revenue,Product A Sale,11200
+2026-01-25,Utilities,Expense,Electricity Bill,3400
+2026-01-28,Sales,Revenue,Product C Sale,7600
+2026-02-02,Salary,Expense,Staff Salary,45000
+2026-02-05,Sales,Revenue,Product A Sale,13100
+2026-02-09,Marketing,Expense,Google Ads,5800
+2026-02-12,Sales,Revenue,Product B Sale,10400
+2026-02-16,Rent,Expense,Office Rent,15000
+2026-02-20,Sales,Revenue,Product C Sale,8900
+2026-02-24,Utilities,Expense,Electricity Bill,3600

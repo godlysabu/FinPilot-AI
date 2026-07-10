@@ -1,0 +1,159 @@
+Transaction_Date,Category,Type,Description,Amount,Payment_Method,Region,Reference_ID
+2025-06-12,Software,Expense,Software transaction #58,41794.72,Cash,East,REF1057
+2025-11-22,Marketing,Expense,Marketing transaction #75,2948.85,Cash,North,REF1074
+2025-08-18,Interest Income,Revenue,Interest Income transaction #150,37985.16,Cash,North,REF1149
+2025-08-14,Sales,Revenue,Sales transaction #120,7217.91,Cash,North,REF1119
+2025-08-22,Interest Income,Revenue,Interest Income transaction #132,"₹50,000.67",UPI,East,REF1131
+2025-12-07,Office Supplies,Expense,Office Supplies transaction #5,33834.17,Bank Transfer,East,REF1004
+2025-10-03,Utilities,Expense,Utilities transaction #44,6782.48,Bank Transfer,South,REF1043
+2025-12-17,Office Supplies,Expense,Office Supplies transaction #143,26136.82,Credit Card,West,REF1142
+2025-08-07,Office Supplies,Expense,Office Supplies transaction #9,3941.16,UPI,West,REF1008
+2025-10-04,Interest Income,revenue,Interest Income transaction #79,"₹13,032.26",UPI,West,REF1078
+2025-11-26,Licensing,revenue,Licensing transaction #15,"₹9,045.87",UPI,Online,REF1014
+2025-11-28,Office Supplies,Expense,Office Supplies transaction #92,16962.26,UPI,Online,REF1091
+2025-12-06,Office Supplies,Expense,Office Supplies transaction #112,24594.61,Cash,East,REF1111
+2025-12-17,Salary,Expense,Salary transaction #122,879.4,Cash,South,REF1121
+not_a_date,Salary,Expense,Salary transaction #135,21205.3,Credit Card,East,REF1134
+2025-11-14,Licensing,Revenue,Licensing transaction #87,34388.81,Cheque,West,REF1086
+2025-09-09,Licensing,Revenue,Licensing transaction #17,,Cheque,South,REF1016
+2025-10-11,Utilities,Expense,Utilities transaction #97,6296.8,UPI,Online,REF1096
+2025-11-22,Marketing,Expense,Marketing transaction #133,12409.02,Credit Card,East,REF1132
+2025-07-06,TRAVEL,Expense,Travel transaction #25,42393.06,Bank Transfer,South,REF1024
+2025-09-29,  Sales  ,Revenue,Sales transaction #104,39273.31,Credit Card,South,REF1103
+2025-07-04,Interest Income,Revenue,Interest Income transaction #10,27816.03,UPI,South,REF1009
+2025-09-09,Insurance,Expense,Insurance transaction #85,"₹1,506.83",Cheque,North,REF1084
+2025-06-25,Licensing,Revenue,Licensing transaction #147,47220.22,Cash,East,REF1146
+2025-08-15,Consulting,Revenue,Consulting transaction #144,2538.6,UPI,North,REF1143
+2025-11-17,Software,Expense,Software transaction #110,2517.95,Bank Transfer,West,REF1109
+32-13-2025,Travel,Expense,Travel transaction #83,32227.86,UPI,East,REF1082
+2025-07-12,Rent,Expense,Rent transaction #88,8817.89,UPI,East,REF1087
+2025-06-12,Consulting,Revenue,Consulting transaction #47,23684.95,UPI,Online,REF1046
+2025-06-03,Sales,Revenue,Sales transaction #93,"₹4,689.71",Credit Card,West,REF1092
+2025-07-10,Insurance,Expense,Insurance transaction #118,19511.86,UPI,South,REF1117
+2025-06-03,Sales,Revenue,Sales transaction #149,48929.14,Cheque,Online,REF1148
+2025-10-23,  SALARY  ,Expense,Salary transaction #7,8862.33,Cheque,Online,REF1006
+2025-08-31,Office Supplies,Expense,Office Supplies transaction #52,"₹20,700.43",UPI,West,REF1051
+2025-07-14,Travel,Expense,Travel transaction #41,10623.67,Credit Card,East,REF1040
+2025-10-07,Consulting,Revenue,Consulting transaction #50,22707.32,Bank Transfer,North,REF1049
+2025-06-26,Interest Income,Revenue,Interest Income transaction #98,18298.4,UPI,North,REF1097
+2025-07-25,Sales,Revenue,Sales transaction #31,23514.05,Cash,Online,REF1030
+2025-11-14,  Office Supplies  ,Expense,Office Supplies transaction #16,20942.24,Cheque,West,REF1015
+2025-09-11,Software,Expense,Software transaction #81,43638.6,Credit Card,North,REF1080
+2025-06-18,  Consulting  ,Revenue,Consulting transaction #90,,Cash,North,REF1089
+2025-08-08,Licensing,Revenue,Licensing transaction #116,43217.96,Cheque,Online,REF1115
+2025-10-14,Travel,Expense,Travel transaction #3,39122.31,Cheque,North,REF1002
+2025-11-11,Consulting,Revenue,Consulting transaction #102,34414.86,Bank Transfer,Online,REF1101
+2025-11-04,  Utilities  ,Expense,Utilities transaction #66,4580.87,Cheque,East,REF1065
+2025-11-22,Marketing,Expense,Marketing transaction #103,"₹32,692.18",UPI,North,REF1102
+2025-07-21,Utilities,Expense,Utilities transaction #107,22082.84,Bank Transfer,South,REF1106
+2025-10-11,Consulting,Revenue,Consulting transaction #126,14200.2,,Online,REF1125
+2025-12-08,Insurance,Expense,Insurance transaction #45,"₹6,843.60",Cash,South,REF1044
+2025-12-12,Licensing,Revenue,Licensing transaction #99,"₹23,272.69",UPI,Online,REF1098
+2025-11-06,Software,expense,Software transaction #134,32857.46,Cash,North,REF1133
+2025-10-25,Insurance,Expense,Insurance transaction #27,1708.6,Credit Card,South,REF1026
+2025-10-29,Software,Expense,Software transaction #91,"₹20,745.92",Bank Transfer,West,REF1090
+2025-11-07,Office Supplies,Expense,Office Supplies transaction #11,15580.07,Cash,West,REF1010
+2025-09-05,Licensing,Revenue,Licensing transaction #51,38952.12,Cash,South,REF1050
+2025-07-16,,expense,Travel transaction #26,25953.84,Credit Card,East,REF1025
+2025-06-11,Salary,Expense,Salary transaction #73,33765.96,UPI,,REF1072
+2025-11-28,Consulting,Revenue,Consulting transaction #71,46644.33,Credit Card,South,REF1070
+2025-07-19,Insurance,Expense,Insurance transaction #14,7087.51,Cheque,West,REF1013
+2025-08-23,Rent,Expense,Rent transaction #139,1166.54,UPI,Online,REF1138
+2025-08-05,Software,expense,Software transaction #106,25116.47,Cash,South,REF1105
+2025-11-08,Interest Income,Revenue,Interest Income transaction #37,41769.15,Credit Card,West,REF1036
+2025-09-29,Office Supplies,Expense,Office Supplies transaction #72,2044.51,Credit Card,Online,REF1071
+2025-06-05,Licensing,Revenue,Licensing transaction #68,12148.57,UPI,North,REF1067
+2025-08-14,Utilities,Expense,Utilities transaction #59,30386.49,Cheque,West,REF1058
+2025-12-06,Software,Expense,Software transaction #65,18057.38,Cheque,West,REF1064
+2025-06-26,Utilities,Expense,Utilities transaction #101,40249.02,Credit Card,Online,REF1100
+2025-07-21,Software,Expense,Software transaction #82,16358.96,Cash,West,REF1081
+2025-08-02,Rent,Expense,Rent transaction #53,,Cheque,South,REF1052
+2025-11-28,Consulting,Revenue,Consulting transaction #35,55633.47,Bank Transfer,Online,REF1034
+2025-09-25,CONSULTING,Revenue,Consulting transaction #49,17717.68,Cash,East,REF1048
+2025-10-26,Software,Expense,Software transaction #57,"₹18,355.99",Cash,Online,REF1056
+2025-07-12,Interest Income,Revenue,Interest Income transaction #24,28056.6,UPI,West,REF1023
+2025-09-13,Travel,Expense,Travel transaction #145,38266.32,Cash,West,REF1144
+2025-11-25,Insurance,Expense,Insurance transaction #121,"₹12,713.32",Credit Card,South,REF1120
+2025-06-29,Interest Income,Revenue,Interest Income transaction #70,47682.41,UPI,East,REF1069
+2025-08-15,RENT,Expense,Rent transaction #86,40028.27,UPI,South,REF1085
+2025-08-10,Insurance,Expense,Insurance transaction #95,"₹42,353.30",Bank Transfer,Online,REF1094
+2025-08-22,,Expense,Software transaction #29,28404.15,Bank Transfer,East,REF1028
+2025-07-06,Insurance,Expense,Insurance transaction #8,16591.89,Bank Transfer,Online,REF1007
+2025-12-06,  LICENSING  ,Revenue,Licensing transaction #4,40502.88,Cheque,North,REF1003
+2025-10-06,Salary,Expense,Salary transaction #33,4625.04,UPI,North,REF1032
+2025-08-01,Software,Expense,Software transaction #38,18930.86,Cheque,West,REF1037
+,SALES,Revenue,Sales transaction #43,"₹36,411.79",Cheque,North,REF1042
+2025-12-03,Interest Income,Revenue,Interest Income transaction #111,37282.05,Bank Transfer,South,REF1110
+2025-06-03,Travel,Expense,Travel transaction #125,8902.6,Cash,North,REF1124
+2025-11-21,Sales,Revenue,Sales transaction #55,10595.96,Credit Card,South,REF1054
+2025-07-30,Sales,Revenue,Sales transaction #124,48832.02,UPI,West,REF1123
+2025-09-12,LICENSING,Revenue,Licensing transaction #109,51890.89,UPI,North,REF1108
+2025-07-30,Sales,Revenue,Sales transaction #124,48832.02,UPI,West,REF1123
+2025-11-24,  Interest Income  ,Revenue,Interest Income transaction #32,"₹51,841.88",Bank Transfer,Online,REF1031
+2025-11-29,Consulting,Revenue,Consulting transaction #140,30696.72,Cash,North,REF1139
+2025-09-28,Sales,revenue,Sales transaction #64,51273.77,Cheque,South,REF1063
+2025-08-27,Licensing,Revenue,Licensing transaction #127,34926.43,Bank Transfer,South,REF1126
+2025-11-08,UTILITIES,Expense,Utilities transaction #46,,UPI,Online,REF1045
+2025-08-12,Office Supplies,Expense,Office Supplies transaction #123,15721.23,Credit Card,North,REF1122
+2025-07-20,Sales,Revenue,Sales transaction #137,37256.82,Bank Transfer,West,REF1136
+2025-11-04,Sales,Revenue,Sales transaction #30,"₹48,566.21",Bank Transfer,South,REF1029
+2025-10-01,Rent,Expense,Rent transaction #54,32240.16,Cash,Online,REF1053
+2025-10-14,Travel,Expense,Travel transaction #3,39122.31,Cheque,North,REF1002
+2025-06-04,Travel,Expense,Travel transaction #142,"₹7,915.81",,South,REF1141
+2025-11-28,Consulting,Revenue,Consulting transaction #61,41674.53,Credit Card,Online,REF1060
+2025-09-19,Licensing,revenue,Licensing transaction #19,46803.71,Cheque,South,REF1018
+2025-08-02,Consulting,revenue,Consulting transaction #84,14878.14,Bank Transfer,East,REF1083
+2025-09-14,Sales,Revenue,Sales transaction #146,48704.48,UPI,South,REF1145
+2025-10-15,Consulting,Revenue,Consulting transaction #67,"₹50,055.97",Cash,South,REF1066
+2025-10-03,  Marketing  ,Expense,Marketing transaction #39,7377.07,UPI,South,REF1038
+2025-11-08,  Salary  ,Expense,Salary transaction #119,4830.93,Credit Card,West,REF1118
+2025-11-20,Interest Income,Revenue,Interest Income transaction #113,8002.61,UPI,South,REF1112
+2025-07-20,Marketing,Expense,Marketing transaction #62,5514.62,Bank Transfer,East,REF1061
+2025-07-12,Interest Income,Revenue,Interest Income transaction #24,28056.6,UPI,West,REF1023
+2025-10-30,Consulting,Revenue,Consulting transaction #1,19478.85,Cheque,South,REF1000
+2025-09-21,Insurance,Expense,Insurance transaction #128,22898.15,Bank Transfer,South,REF1127
+2025-12-11,Office Supplies,Expense,Office Supplies transaction #117,42068.08,,North,REF1116
+2025-10-08,SALARY,expense,Salary transaction #129,11687.55,Cheque,North,REF1128
+2025-07-07,Salary,Expense,Salary transaction #138,,Cheque,North,REF1137
+2025-07-04,Utilities,Expense,Utilities transaction #105,17568.27,Credit Card,East,REF1104
+2025-09-06,  Insurance  ,Expense,Insurance transaction #89,15081.56,,,REF1088
+2025-06-11,Consulting,Revenue,Consulting transaction #136,15194.2,Credit Card,East,REF1135
+2025-09-06,Marketing,Expense,Marketing transaction #77,11675.27,Bank Transfer,South,REF1076
+2025-07-18,Rent,Expense,Rent transaction #78,18095.31,UPI,South,REF1077
+2025-08-07,CONSULTING,revenue,Consulting transaction #13,47013.26,Cheque,Online,REF1012
+2025-07-07,Rent,Expense,Rent transaction #34,1946.19,Cheque,West,REF1033
+2025-06-19,Rent,Expense,Rent transaction #42,41532.62,Bank Transfer,East,REF1041
+2025-11-13,SALARY,expense,Salary transaction #114,31672.11,Cash,West,REF1113
+2025-08-17,,Expense,Travel transaction #96,30432.44,Bank Transfer,North,REF1095
+2025-07-10,Salary,Expense,Salary transaction #94,22078.27,Bank Transfer,West,REF1093
+2025-12-04,Office Supplies,expense,Office Supplies transaction #12,29632.36,Bank Transfer,Online,REF1011
+2025/31/02,Sales,Revenue,Sales transaction #115,24094.95,Credit Card,East,REF1114
+2025-06-19,Marketing,Expense,Marketing transaction #76,"₹7,404.99",Cheque,Online,REF1075
+2025-07-13,Salary,Expense,Salary transaction #2,4086.11,Cash,North,REF1001
+2025-10-11,Utilities,Expense,Utilities transaction #97,6296.8,UPI,Online,REF1096
+2025-10-16,LICENSING,revenue,Licensing transaction #6,"₹47,550.43",UPI,West,REF1005
+2025-09-30,Utilities,Expense,Utilities transaction #23,36991.0,Cheque,Online,REF1022
+2025-08-19,,Expense,Rent transaction #20,42272.19,Credit Card,Online,REF1019
+2025-09-10,Licensing,Revenue,Licensing transaction #100,43936.36,UPI,East,REF1099
+2025-09-29,Marketing,Expense,Marketing transaction #22,22421.56,Credit Card,West,REF1021
+2025-10-30,Salary,Expense,Salary transaction #74,40475.24,Bank Transfer,East,REF1073
+2025-12-08,Rent,Expense,Rent transaction #18,23490.7,Cash,Online,REF1017
+2025-07-07,Software,Expense,Software transaction #148,1317.48,Cheque,Online,REF1147
+2025-08-24,Rent,Expense,Rent transaction #63,21243.13,Cheque,South,REF1062
+2025-10-21,Utilities,Expense,Utilities transaction #28,11983.81,Bank Transfer,North,REF1027
+2025-07-24,  Interest Income  ,Revenue,Interest Income transaction #48,49105.19,UPI,East,REF1047
+2025-12-07,Travel,Expense,Travel transaction #80,18047.29,,East,REF1079
+2025-10-29,Software,Expense,Software transaction #40,44016.72,Bank Transfer,East,REF1039
+2025-12-07,Office Supplies,Expense,Office Supplies transaction #5,33834.17,Bank Transfer,East,REF1004
+2025-11-13,Sales,Revenue,Sales transaction #21,,,,REF1020
+2025-11-21,Interest Income,Revenue,Interest Income transaction #141,,Credit Card,West,REF1140
+2025-07-09,Rent,expense,Rent transaction #131,35136.83,UPI,North,REF1130
+2025-11-15,Sales,revenue,Sales transaction #108,,Cheque,Online,REF1107
+2025-09-21,Interest Income,Revenue,Interest Income transaction #60,6008.62,Cash,North,REF1059
+2025-11-12,Sales,Revenue,Sales transaction #56,41655.73,UPI,West,REF1055
+,,,,,,,
+2025-12-11,Office Supplies,Expense,Office Supplies transaction #117,42068.08,,North,REF1116
+,,,,,,,
+2025-07-02,Travel,Expense,Travel transaction #69,14358.91,Bank Transfer,North,REF1068
+2025-07-18,RENT,Expense,Rent transaction #36,"₹39,293.70",UPI,South,REF1035
+2025-07-06,RENT,Expense,Rent transaction #130,18660.4,Cash,West,REF1129
